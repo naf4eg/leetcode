@@ -1,4 +1,4 @@
-package org.leetcode.merge_two_sorted_lists;
+package org.leetcode.reverse_linked_list;
 
 class ListNode {
     public int val;

@@ -4,7 +4,7 @@ import java.sql.Struct;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-public class Solution {
+class Solution {
     public static void main(String[] args) {
         var text1 = "A man, a plan, a canal: Panama";
         var text2 = "race a car";
