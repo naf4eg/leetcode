@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3eb7d22-9ac4-41e1-afad-f5deb2a159ed" name="Changes" comment="Initial commit&#10;MergeTwoSortedLists">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/valid_anagram/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/valid_anagram/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/valid_anagram/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,9 +137,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.org.leetcode.valid_anagram.Solution" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.org.leetcode.reverse_linked_list.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MergeTwoSortedLists" />
       </list>
     </recent_temporary>
@@ -153,7 +154,7 @@
       <updated>1676840469332</updated>
       <workItem from="1676840470466" duration="2262000" />
       <workItem from="1676842745599" duration="18571000" />
-      <workItem from="1677361711634" duration="536000" />
+      <workItem from="1677361711634" duration="2547000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;MergeTwoSortedLists">
       <created>1676849310489</created>
@@ -190,6 +191,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/valid_palindrome/Solution.java</url>
           <line>51</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
