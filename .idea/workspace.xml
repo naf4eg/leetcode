@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3eb7d22-9ac4-41e1-afad-f5deb2a159ed" name="Changes" comment="Initial commit&#10;MergeTwoSortedLists">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/reverse_linked_list/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/reverse_linked_list/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/valid_anagram/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/merge_two_sorted_lists/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/merge_two_sorted_lists/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/valid_palindrome/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/valid_palindrome/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -48,27 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.leetcode.reverse_linked_list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.leetcode.reverse_linked_list.Solution">
+  <component name="RunManager" selected="Application.org.leetcode.valid_anagram.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.leetcode.Main" />
       <module name="leetcode" />
@@ -121,8 +120,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.leetcode.valid_anagram.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.leetcode.valid_anagram.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.leetcode.valid_anagram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.leetcode.valid_anagram.Solution" />
         <item itemvalue="Application.org.leetcode.reverse_linked_list.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
@@ -139,7 +152,8 @@
       <option name="presentableId" value="Default" />
       <updated>1676840469332</updated>
       <workItem from="1676840470466" duration="2262000" />
-      <workItem from="1676842745599" duration="17230000" />
+      <workItem from="1676842745599" duration="18571000" />
+      <workItem from="1677361711634" duration="536000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;MergeTwoSortedLists">
       <created>1676849310489</created>
